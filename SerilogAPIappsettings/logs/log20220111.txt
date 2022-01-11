@@ -1,0 +1,90 @@
+2022-01-11 17:11:34.534 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 17:11:34.553 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 17:11:34.555 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 17:11:34.556 -03:00 [INF] Hosting environment: Development
+2022-01-11 17:11:34.556 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 17:24:24.038 -03:00 [INF] Application is shutting down...
+2022-01-11 17:27:10.207 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 17:27:10.223 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 17:27:10.239 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 17:27:10.240 -03:00 [INF] Hosting environment: Development
+2022-01-11 17:27:10.240 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 17:27:26.709 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/ - -
+2022-01-11 17:27:26.731 -03:00 [INF] Executing endpoint 'HTTP: GET /'
+2022-01-11 17:27:26.737 -03:00 [INF] Executed endpoint 'HTTP: GET /'
+2022-01-11 17:27:26.740 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/ - - - 200 - text/plain;+charset=utf-8 32.5153ms
+2022-01-11 17:27:47.701 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/ - -
+2022-01-11 17:27:47.704 -03:00 [INF] Executing endpoint 'HTTP: GET /'
+2022-01-11 17:27:47.705 -03:00 [INF] Executed endpoint 'HTTP: GET /'
+2022-01-11 17:27:47.706 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/ - - - 200 - text/plain;+charset=utf-8 4.4342ms
+2022-01-11 17:27:57.402 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/ - -
+2022-01-11 17:27:57.403 -03:00 [INF] Executing endpoint 'HTTP: GET /'
+2022-01-11 17:27:57.404 -03:00 [INF] Executed endpoint 'HTTP: GET /'
+2022-01-11 17:27:57.405 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/ - - - 200 - text/plain;+charset=utf-8 2.9446ms
+2022-01-11 17:38:20.239 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/ - -
+2022-01-11 17:38:20.241 -03:00 [INF] Executing endpoint 'HTTP: GET /'
+2022-01-11 17:38:20.241 -03:00 [INF] Executed endpoint 'HTTP: GET /'
+2022-01-11 17:38:20.242 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/ - - - 200 - text/plain;+charset=utf-8 3.3680ms
+2022-01-11 17:43:14.643 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/teste - -
+2022-01-11 17:43:14.645 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/teste - - - 404 0 - 1.6660ms
+2022-01-11 17:47:44.563 -03:00 [INF] Application is shutting down...
+2022-01-11 17:47:47.970 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 17:47:47.988 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 17:47:47.990 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 17:47:47.990 -03:00 [INF] Hosting environment: Development
+2022-01-11 17:47:47.991 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 17:52:07.627 -03:00 [INF] Application is shutting down...
+2022-01-11 17:52:20.224 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 17:52:20.244 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 17:52:20.246 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 17:52:20.247 -03:00 [INF] Hosting environment: Development
+2022-01-11 17:52:20.247 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 18:02:20.582 -03:00 [INF] Application is shutting down...
+2022-01-11 18:03:37.722 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 18:03:37.742 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 18:03:37.743 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 18:03:37.743 -03:00 [INF] Hosting environment: Development
+2022-01-11 18:03:37.744 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 18:04:20.036 -03:00 [INF] Application is shutting down...
+2022-01-11 18:04:23.077 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 18:04:23.093 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 18:04:23.096 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 18:04:23.096 -03:00 [INF] Hosting environment: Development
+2022-01-11 18:04:23.097 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 18:06:35.610 -03:00 [INF] Application is shutting down...
+2022-01-11 18:07:38.087 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 18:07:38.104 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 18:07:38.106 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 18:07:38.107 -03:00 [INF] Hosting environment: Development
+2022-01-11 18:07:38.107 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 18:09:24.623 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/ - -
+2022-01-11 18:09:24.647 -03:00 [INF] Executing endpoint 'HTTP: GET /'
+2022-01-11 18:09:24.650 -03:00 [INF] Executed endpoint 'HTTP: GET /'
+2022-01-11 18:09:24.653 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/ - - - 200 - text/plain;+charset=utf-8 31.8646ms
+2022-01-11 18:09:24.717 -03:00 [INF] Request starting HTTP/2 GET https://localhost:7063/favicon.ico - -
+2022-01-11 18:09:24.720 -03:00 [INF] Request finished HTTP/2 GET https://localhost:7063/favicon.ico - - - 404 0 - 2.4336ms
+2022-01-11 18:19:44.388 -03:00 [INF] Application is shutting down...
+2022-01-11 18:19:49.142 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 18:19:49.160 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 18:19:49.162 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 18:19:49.162 -03:00 [INF] Hosting environment: Development
+2022-01-11 18:19:49.163 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 18:38:34.007 -03:00 [INF] Application is shutting down...
+2022-01-11 18:38:45.766 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 18:38:45.782 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 18:38:45.785 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 18:38:45.785 -03:00 [INF] Hosting environment: Development
+2022-01-11 18:38:45.785 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 18:40:19.529 -03:00 [INF] Application is shutting down...
+2022-01-11 18:40:27.038 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 18:40:27.068 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 18:40:27.069 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 18:40:27.070 -03:00 [INF] Hosting environment: Development
+2022-01-11 18:40:27.070 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPIappsettings\
+2022-01-11 19:49:32.361 -03:00 [INF] Application is shutting down...
+2022-01-11 20:12:11.205 -03:00 [INF] Now listening on: https://localhost:7063
+2022-01-11 20:12:11.226 -03:00 [INF] Now listening on: http://localhost:5035
+2022-01-11 20:12:11.229 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 20:12:11.229 -03:00 [INF] Hosting environment: Development
+2022-01-11 20:12:11.230 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPI\SerilogAPIappsettings\
+2022-01-11 20:12:13.202 -03:00 [INF] Application is shutting down...

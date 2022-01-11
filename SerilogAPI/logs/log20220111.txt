@@ -1,0 +1,12 @@
+2022-01-11 14:03:26.110 -03:00 [INF] Now listening on: https://localhost:7200
+2022-01-11 14:03:26.130 -03:00 [INF] Now listening on: http://localhost:5063
+2022-01-11 14:03:26.132 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 14:03:26.132 -03:00 [INF] Hosting environment: Development
+2022-01-11 14:03:26.132 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPI\
+2022-01-11 15:40:24.966 -03:00 [INF] Application is shutting down...
+2022-01-11 20:11:49.853 -03:00 [INF] Now listening on: https://localhost:7200
+2022-01-11 20:11:49.873 -03:00 [INF] Now listening on: http://localhost:5063
+2022-01-11 20:11:49.876 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-01-11 20:11:49.876 -03:00 [INF] Hosting environment: Development
+2022-01-11 20:11:49.877 -03:00 [INF] Content root path: C:\Users\ellison.guimaraes\Desktop\net6\SerilogAPI\SerilogAPI\
+2022-01-11 20:11:53.682 -03:00 [INF] Application is shutting down...
